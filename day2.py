@@ -1,5 +1,5 @@
 #list =[25,41,3,14,2.3,'hello',True]
-#print(list[1:4])
+#print(list[1:3])
 # to change any value directly do this
 
 #list[1]=500
